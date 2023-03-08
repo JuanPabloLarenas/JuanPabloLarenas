@@ -1,5 +1,5 @@
 # 💫 About Me:
-Undergraduate Student at Penn State University<br><br>🔭 I’m currently looking to intern in any software engineering role<br>👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning high proficiency C++<br>💬 Ask me about scientific computing<br><br>Major: Computer Science<br>Minor: Information Sciences and Technology for Aerospace Engineering
+Undergraduate Student at Penn State University<br><br>🔭 I’m currently looking to intern in any software engineering role<br>👯 I’m looking to collaborate on any projects<br>🌱 I’m currently learning high proficiency C++<br>💬 Ask me about scientific computing<br><br>Major: Computer Science<br>Minor: Information Sciences and Technology for Aerospace Engineering<br><br>Contact me: jpl6501@psu.edu
 
 
 ## 🌐 Socials:
